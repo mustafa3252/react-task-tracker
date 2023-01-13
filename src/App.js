@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="container">
-      <Header title="Mustafa"/>
+      <Header title="Task Tracker"/>
     </div>
   );
 }
